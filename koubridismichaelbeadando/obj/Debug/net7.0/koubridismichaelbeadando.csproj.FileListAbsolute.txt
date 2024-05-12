@@ -1,0 +1,15 @@
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\bin\Debug\net7.0\koubridismichaelbeadando.exe
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\bin\Debug\net7.0\koubridismichaelbeadando.deps.json
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\bin\Debug\net7.0\koubridismichaelbeadando.runtimeconfig.json
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\bin\Debug\net7.0\koubridismichaelbeadando.dll
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\bin\Debug\net7.0\koubridismichaelbeadando.pdb
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.csproj.AssemblyReference.cache
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.AssemblyInfoInputs.cache
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.AssemblyInfo.cs
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.csproj.CoreCompileInputs.cache
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.dll
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\refint\koubridismichaelbeadando.dll
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.pdb
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\koubridismichaelbeadando.genruntimeconfig.cache
+C:\Users\buldo\Desktop\C# okba\koubridismichaelbeadando\koubridismichaelbeadando\obj\Debug\net7.0\ref\koubridismichaelbeadando.dll
